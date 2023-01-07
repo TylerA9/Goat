@@ -1,0 +1,75 @@
+.Header{
+    color: rgb(229 198 135);
+    font-size: 300%;
+    font-weight: bold;
+    margin-bottom: 1px;
+    height: auto;
+    width: auto;
+
+    margin: 0px;
+    
+}
+
+body{
+    background-color: rgb(75,56,76);
+    color: rgb(229 198 135);
+}
+
+.Top-Text{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 450px;
+    text-align: center;
+}
+.Top-Photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    
+}
+
+.Side-Photo1{
+    width:788px;
+    height:500px;
+    margin: 0px;
+    border: 3px solid rgb(229 198 135);
+}
+
+.Side-Photo2{
+    width: 788px;;
+    height:500px;
+    margin: 0px;
+    border: 3px solid rgb(229 198 135);
+
+}
+.Introduction{
+    width: 50%;
+    text-align: center;
+}
+
+.purple-rain, .doves-cry, .kiss{
+    font-weight: bold;
+    color: white;
+}
+
+.Reasons{
+    margin-left: 20px;
+}
+.Second-text{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Top-half{
+    background-image: url('images/lightning.gif');
+    height: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Bottom-photos{
+   display: flex;
+}
